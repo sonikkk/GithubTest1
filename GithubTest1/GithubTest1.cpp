@@ -1,4 +1,4 @@
-// GithubTest1.cpp : Defines the entry point for the console application.
+﻿// GithubTest1.cpp : Defines the entry point for the console application.
 //
 
 #include "stdafx.h"
@@ -8,6 +8,8 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 
 	printf("hello world!\n");
+
+	// 修改了注释文件
 
 	system("pause");
 
