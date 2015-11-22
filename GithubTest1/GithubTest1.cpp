@@ -11,8 +11,6 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	// 修改了注释文件
 
-	// 2015-11-22 18:42:39 再次修改了注释文件
-
 	system("pause");
 
 	return 0;
