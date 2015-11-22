@@ -1,0 +1,8 @@
+GithubTest1.sdf
+*.pdb
+Debug/GithubTest1.ilk
+GithubTest1/Debug/vc120.idb
+*.obj
+*.tlog
+Debug/GithubTest1.exe
+GithubTest1/ReadMe.txt
